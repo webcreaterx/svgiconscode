@@ -1,6 +1,7 @@
 # svgiconscode 
 
 # http://svgiconscode.epizy.com/
+# https://mcodexpro.github.io/svgiconscode
 
 visit link:
 http://svgiconscode.epizy.com/
