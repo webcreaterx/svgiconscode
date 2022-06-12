@@ -9,7 +9,7 @@ svgiconscode websit using by getting a usefull icons for svg html code format <s
 # License
 License: MIT under license
 
-# Language
+# Languages
 language: HTML, Javascript, Css
 
 # Author
