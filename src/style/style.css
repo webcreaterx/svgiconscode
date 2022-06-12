@@ -308,3 +308,9 @@ svg {
     font-size: 23px;
     color: #d7bcbc;
 }
+
+svg {
+  width: 16px;
+  height: 16px;
+  fill: #000;
+}
