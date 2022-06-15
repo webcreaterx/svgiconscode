@@ -1,1 +1,1 @@
-(mog)[htpp://www.google.com]
+[og](htpp://www.google.com)
