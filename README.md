@@ -1,6 +1,6 @@
 <h3>SVGICONSCODE</h3>
 <strong>Visit webpage link</strong>
-<a href="http://svgiconscode.epizy.com/"><strong>svgiconscode</strong></a><br><br>
+<a href="http://svgiconscode.epizy.com/">ssvgiconscod</a><br><br>
 
 <strong>GitHub webpage link</strong>
 <a href="https://mcodexpro.github.io/svgiconscode/">GitHub webpage</a>
@@ -12,7 +12,7 @@ svgiconscode, svgicons, website link: http://svgiconscode.epizy.com/, GitHub rep
 <code>&nbsp;&nbsp;MIT license&nbsp;&nbsp;</code>
 
 <h3>Author</h3>
-<i>&nbsp;&nbsp;Modassir Develope&nbsp;&nbsp;r</i>
+<i>&nbsp;&nbsp;Modassir Developer&nbsp;&nbsp;r</i>
 
 <h3>Release</h3>
 <code>&nbsp;&nbsp;10-06-2022T12:67&nbsp;&nbsp;</code>
